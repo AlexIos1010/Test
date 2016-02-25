@@ -6,4 +6,8 @@ Use Git when file changed
 
 git diff
 
+<<<<<<< HEAD
 Master Add!
+=======
+firstBranch Add!
+>>>>>>> e77682ee30cec685b692b2675fa10e2cf879ea39
