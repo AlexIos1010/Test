@@ -1,4 +1,7 @@
 Hello World
+ //Del one line Insert !!
 
 
-Use Git when file changed!
+Use Git when file changed
+
+git diff
